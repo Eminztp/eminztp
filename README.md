@@ -14,8 +14,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ### Tech I Use
@@ -56,9 +54,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Eminztp&layout=co
 
 
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
