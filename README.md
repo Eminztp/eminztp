@@ -43,8 +43,7 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=Eminztp&layout=compact&theme=highcontrast" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eminztp&layout=compact&theme=highcontrast" >
 </details>
 
 
